@@ -10,3 +10,16 @@ C:\Users\iranfilmport\Desktop\Luarel\Luarel\obj\Debug\Luarel.vbproj.CoreCompileI
 C:\Users\iranfilmport\Desktop\Luarel\Luarel\obj\Debug\Luarel.exe
 C:\Users\iranfilmport\Desktop\Luarel\Luarel\obj\Debug\Luarel.xml
 C:\Users\iranfilmport\Desktop\Luarel\Luarel\obj\Debug\Luarel.pdb
+D:\_Developing_\Luarel\Luarel\bin\Debug\Luarel.exe.config
+D:\_Developing_\Luarel\Luarel\bin\Debug\Luarel.exe
+D:\_Developing_\Luarel\Luarel\bin\Debug\Luarel.pdb
+D:\_Developing_\Luarel\Luarel\bin\Debug\Luarel.xml
+D:\_Developing_\Luarel\Luarel\obj\Debug\Luarel.vbprojAssemblyReference.cache
+D:\_Developing_\Luarel\Luarel\obj\Debug\Luarel.Form1.resources
+D:\_Developing_\Luarel\Luarel\obj\Debug\Luarel.Resources.resources
+D:\_Developing_\Luarel\Luarel\obj\Debug\Luarel.vbproj.GenerateResource.cache
+D:\_Developing_\Luarel\Luarel\obj\Debug\Luarel.vbproj.CoreCompileInputs.cache
+D:\_Developing_\Luarel\Luarel\obj\Debug\Luarel.exe
+D:\_Developing_\Luarel\Luarel\obj\Debug\Luarel.xml
+D:\_Developing_\Luarel\Luarel\obj\Debug\Luarel.pdb
+D:\_Developing_\Luarel\Luarel\obj\Debug\Luarel.Form2.resources
